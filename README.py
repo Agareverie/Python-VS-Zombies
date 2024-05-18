@@ -48,6 +48,7 @@ class Iceshroom(Seed):
         self.recharge_index = 8 
         self.sun_cost = 150 
         self.look = "I"
+
 class Lane: 
     def __init__(self, name): 
         self.name = name 
